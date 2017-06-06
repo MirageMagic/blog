@@ -1,3 +1,4 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 ###Linux命令行中常用命令（文件的增删改查）:
 #####1.cd：
   该命令用来切换当前目录，cd为change directory的缩写
